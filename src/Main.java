@@ -31,6 +31,8 @@ public class Main {
         expDef = new Expediente();
         System.out.println(expDef.consultarFicha());
 
+        System.out.println("Adios");
+
         sc.close();
     }
 

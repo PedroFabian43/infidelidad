@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
 
-        final String PETICION_RAZON = "Razon Social de la empresa: ";
+        final String PETICION_RAZON = "Razón Social de la empresa: ";
         final String PETICION_CREDITOS = "Créditos de la empresa: ";
         final int FACTOR = 2;
 

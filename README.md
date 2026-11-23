@@ -32,8 +32,6 @@ class Scanner{}
 Main->Scanner
 Main->Expediente
 @enduml
-
-
 ```
 
 ```mermaid
